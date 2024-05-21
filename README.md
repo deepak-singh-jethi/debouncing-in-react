@@ -14,15 +14,18 @@ This application captures user input in a text field and updates two values:
 2. The debounced value (`debouncedValue`) which updates only after the user has stopped typing for a specified period (1 second in this case).
 
 ## Usage
+```
 
 1. Clone the repository:
    ```sh
    git clone https://github.com/deepak-singh-jethi/debouncing-in-react.git
    ```
+
 2. Navigate to the project directory:
    ```sh
    cd debouncing-in-react
    ```
+   
 3. Install dependencies:
    ```sh
    npm install
