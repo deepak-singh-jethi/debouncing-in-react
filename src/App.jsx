@@ -43,10 +43,6 @@ const App = () => {
           <strong>Debounced Value: </strong>
           {debouncedValue}
         </p>
-        {/* <p>
-          <strong>Throtteled Value: </strong>
-          {throttledValue}
-        </p> */}
       </div>
     </div>
   );
